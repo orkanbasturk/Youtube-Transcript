@@ -1,4 +1,4 @@
-YouTube Transcript Downloader
+# YouTube Transcript Downloader
 
 A Python-based terminal application to download transcripts of YouTube videos. This application supports multi-language transcript selection and saves the transcript as a text file in the `output` directory.
 
